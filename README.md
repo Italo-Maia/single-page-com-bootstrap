@@ -34,7 +34,7 @@
 
 <br>
 
-   * Veja o projeto em funcionamento aqui: [Hotel Paraíso]( https://italo-maia.github.io/single-page-com-bootstrap/) 🖱.
+   * Veja o projeto em funcionamento aqui: [Single Page]( https://italo-maia.github.io/single-page-com-bootstrap/) 🖱.
 
 ---
 
