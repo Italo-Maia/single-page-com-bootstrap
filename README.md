@@ -34,6 +34,15 @@
 
 <br>
 
+   * Veja o projeto em funcionamento aqui: [Hotel Paraíso]( https://italo-maia.github.io/single-page-com-bootstrap/) 🖱.
+
+---
+
+<br>
+
+### Este projeto foi desenvolvido com ❤️ por **[@Italo Maia](https://www.linkedin.com/in/italo-barbosa-maia-8b98b822a/)**, com incentivo da escola de programação online **B7-WEB** 💜. <br>
+
+
 
 
 
