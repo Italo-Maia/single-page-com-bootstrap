@@ -8,7 +8,7 @@
 <h2 align="center">Sobre 📖</h2>
    
    <p align="center">
-      O projeto tem como inspiração um layoult completo de um site, e visa praticar aprendizados com Bootstrap e Jquery. 
+      O projeto tem como inspiração um layoult completo de um site e visa praticar aprendizados com Bootstrap e Jquery. 
    </p>
 
 <br>
